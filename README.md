@@ -1,9 +1,9 @@
 # Hi there 👋, I am Aman.
 
+### A Curious person, interested in writing codes that deploy changes and affect world!
+
 [![Website](https://img.shields.io/website?label=amandesai01.github.io&style=for-the-badge&url=https%3A%2F%2Famandesai01.github.io)](https://amandesai01.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aman_desai_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faman_desai_&screen_name=aman_desai_)
-
-### A Curious person, interested in writing codes that deploy changes and affect world!
 
 ## I am familier with:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -20,6 +20,7 @@
 
 <br />
 <br />
+
 
   <img align="left" alt="amandesai01's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amandesai01&show_icons=true&hide_border=true&color=purple" />
 
