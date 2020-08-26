@@ -22,5 +22,8 @@
 <br />
 
 
-  <img align="left" alt="amandesai01's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amandesai01&show_icons=true&hide_border=true&color=purple" />
+  <img align="left" alt="amandesai01's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amandesai01&show_icons=true&hide_border=true&color=purple&theme=tokyonight" />
+  
+  <img align="left" alt="amandesai01's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandesai01&layout=compact&theme=tokyonight&card_width=445" />
+
 
