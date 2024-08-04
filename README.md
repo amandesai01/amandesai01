@@ -1,5 +1,19 @@
-# Hi there 👋, I am Aman.
-[![Website](https://img.shields.io/website?label=amandesai01.github.io&style=for-the-badge&url=https%3A%2F%2Famandesai01.github.io)](https://amandesai01.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/aman_desai_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faman_desai_&screen_name=aman_desai_)
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandesai01&theme=dark" />
+<table>
+  <tr>
+  <td>
+<p align="center">
+  <samp>
+    Becoming a better engineer everyday.<br/> A <strong title="Developer Experience">Nuxt Entusiast</strong> on the way to build something great!<br/>
+    Building <a href="https://github.com/profilecity/vidur">Vidur</a>, - open source, composable, recruiting software.<br>
+    <a href="https://twitter.com/aman_desai_">Twitter</a> .
+    <a href="https://linkedin.com/in/amandesai01">LinkedIn</a>
+  </samp>
+</p>
+</td>
+    <td>
+<p align="center">
+  <a href="https://nuxters.nuxt.com/atinux"><img src="https://nuxters.nuxt.com/__og-image__/image/amandesai01/og.png" alt="Aman Desai on Nuxters" width="300" /></a>
+</p>
+      </td>
+</tr>
+</table>
