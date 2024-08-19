@@ -19,5 +19,5 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandesai01&theme=dark" />
+  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=amandesai01&theme=dark" />
 </p>
