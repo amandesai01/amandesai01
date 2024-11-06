@@ -4,6 +4,7 @@
 <p align="center">
   <samp>
     Becoming a better engineer everyday.<br/> A <strong title="Developer Experience">Nuxt Entusiast</strong> on the way to build something great!<br/>
+    Working on <a href="https://github.com/nocodb/nocodb">NocoDB</a>, - open source alternative to Airtable.<br>
     Building <a href="https://github.com/profilecity/vidur">Vidur</a>, - open source, composable, recruiting software.<br>
     <a href="https://twitter.com/aman_desai_">Twitter</a> .
     <a href="https://linkedin.com/in/amandesai01">LinkedIn</a>
