@@ -13,7 +13,7 @@
 </td>
     <td>
 <p align="center">
-  <a href="https://nuxters.nuxt.com/atinux"><img src="https://nuxters.nuxt.com/__og-image__/image/amandesai01/og.png" alt="Aman Desai on Nuxters" width="300" /></a>
+  <a href="https://nuxters.nuxt.com/amandesai01"><img src="https://nuxters.nuxt.com/__og-image__/image/amandesai01/og.png" alt="Aman Desai on Nuxters" width="300" /></a>
 </p>
       </td>
 </tr>
