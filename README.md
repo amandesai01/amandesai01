@@ -6,7 +6,7 @@
     Becoming a better engineer everyday.<br/>
     Working on <a href="https://github.com/nocodb/nocodb">NocoDB</a>, - open source alternative to Airtable.<br>
     Building <a href="https://github.com/profilecity/vidur">Vidur</a>, - open source, composable, recruiting software.<br>
-    Helping maintain <a href="https://github.com/unjs/db0">unjs/db0</a>, - tiny sql connector, shipped with Nitro / Nuxt.<br>
+    Helping maintain <a href="https://github.com/unjs/db0">unjs/db0</a>, - sql connector powering Nitro / Nuxt.<br>
     <a href="https://twitter.com/aman_desai_">Twitter</a> .
     <a href="https://linkedin.com/in/amandesai01">LinkedIn</a>
   </samp>
