@@ -5,7 +5,8 @@
     Helping maintain <a href="https://github.com/unjs/db0">unjs/db0</a>, - sql connector powering Nitro / Nuxt.<br>
     Worked on <a href="https://github.com/nocodb/nocodb">NocoDB</a>, - open source alternative to Airtable.<br>
     <a href="https://twitter.com/aman_desai_">Twitter</a> .
-    <a href="https://linkedin.com/in/amandesai01">LinkedIn</a>
+    <a href="https://linkedin.com/in/amandesai01">LinkedIn</a><br>
+    <a href="https://amandesai.xyz">More about me</a>
   </samp>
 </p>
 
